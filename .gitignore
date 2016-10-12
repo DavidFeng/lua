@@ -1,2 +1,5 @@
 /src/lua
 /src/luac
+
+/build
+/.idea
